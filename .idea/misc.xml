@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Floating_Chat_Head/app/src/main/res/drawable/background_shape.xml" value="0.15416666666666667" />
+        <entry key="..\:/Floating_Chat_Head/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Floating_Chat_Head/app/src/main/res/layout/floating_bubble_view.xml" value="0.12708333333333333" />
+        <entry key="..\:/Floating_Chat_Head/app/src/main/res/layout/floating_button.xml" value="0.12708333333333333" />
+        <entry key="..\:/Floating_Chat_Head/app/src/main/res/layout/floating_expandable_view.xml" value="0.12708333333333333" />
+        <entry key="..\:/Floating_Chat_Head/app/src/main/res/layout/floating_remove_bubble_view.xml" value="0.12708333333333333" />
+        <entry key="..\:/Floating_Chat_Head/app/src/main/res/layout/flutter_view.xml" value="0.12708333333333333" />
+        <entry key="..\:/Floating_Chat_Head/app/src/main/res/layout/sample_view_1.xml" value="0.12708333333333333" />
+        <entry key="..\:/Floating_Chat_Head/app/src/main/res/layout/user_layout.xml" value="0.12708333333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
